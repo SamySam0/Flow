@@ -1,0 +1,9 @@
+jump:Up
+pause:Escape
+boss_key:b
+noclip:w
+time_slow:c
+fullscreen:False
+v_sync:False
+music:False
+sound:False
