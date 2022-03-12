@@ -1,5 +1,5 @@
 # Flow
 Python game made in Tkinter
 
-# Instructions:
+# Instructions
 To launch, use: python3 game.py
