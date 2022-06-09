@@ -1,5 +1,8 @@
-# Flow
-Python game made in Tkinter
+# Graphical Game - Flow
 
-# Instructions
-To launch, use: python3 game.py
+## Description:
+This is a unic graphical game developed in Python using the Tkinter library.
+
+## Instructions:
+- Make sure to have the following libraries installed : tkinter
+- Run the game from the terminal: python3 game.py
